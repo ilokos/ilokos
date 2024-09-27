@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ilokos
-- 👀 I’m interested in cloud, containers, kubernetes
+- 👀 I’m interested in ai/ml
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
